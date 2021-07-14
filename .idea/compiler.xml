@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="jstl" />
+        <module name="cookie" />
+        <module name="jsp" />
+        <module name="session" />
+        <module name="el" />
+        <module name="jdbc" />
+        <module name="case01" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="case" target="1.8" />
+      <module name="case01" target="1.8" />
+      <module name="cookie" target="1.8" />
+      <module name="el" target="1.8" />
+      <module name="el_jstl" target="1.8" />
+      <module name="jdbc" target="1.7" />
+      <module name="jsp" target="1.8" />
+      <module name="jstl" target="1.8" />
+      <module name="session" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaWeb.iml" filepath="$PROJECT_DIR$/JavaWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/case01/case01.iml" filepath="$PROJECT_DIR$/case01/case01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cookie/cookie.iml" filepath="$PROJECT_DIR$/cookie/cookie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/el/el.iml" filepath="$PROJECT_DIR$/el/el.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdbc/jdbc.iml" filepath="$PROJECT_DIR$/jdbc/jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jsp/jsp.iml" filepath="$PROJECT_DIR$/jsp/jsp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jstl/jstl.iml" filepath="$PROJECT_DIR$/jstl/jstl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/session/session.iml" filepath="$PROJECT_DIR$/session/session.iml" />
+    </modules>
+  </component>
+</project>

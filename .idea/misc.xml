@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/case01" />
+    <file type="web" url="file://$PROJECT_DIR$/cookie" />
+    <file type="web" url="file://$PROJECT_DIR$/el" />
+    <file type="web" url="file://$PROJECT_DIR$/el_jstl" />
+    <file type="web" url="file://$PROJECT_DIR$/jsp" />
+    <file type="web" url="file://$PROJECT_DIR$/jstl" />
+    <file type="web" url="file://$PROJECT_DIR$/session" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/jdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/case/pom.xml" />
+        <option value="$PROJECT_DIR$/el_jstl/case01/pom.xml" />
+        <option value="$PROJECT_DIR$/case01/pom.xml" />
+        <option value="$PROJECT_DIR$/jsp/pom.xml" />
+        <option value="$PROJECT_DIR$/el/pom.xml" />
+        <option value="$PROJECT_DIR$/jstl/pom.xml" />
+        <option value="$PROJECT_DIR$/cookie/pom.xml" />
+        <option value="$PROJECT_DIR$/session/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
